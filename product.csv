@@ -1,0 +1,111 @@
+product_id,product_name_category,price,discount,expiry_date,stock,ratings,discounted amount,amazon,flipkart
+P1000,Shoes-Footwear,,not applicable,12-Jan-26,available,two,,0,1
+P1001,Soap-Hygiene,100rs,10% off,12-Jan-26,not available,5*,,1,0
+P1002,Chair-Furniture,1200rs,not applicable,not applicable,not available,two,,1,1
+P1003,Watch--Accessories,15$,flat 1000,04-Dec-27,available,two,,1,0
+P1004,TV--Electronics,999rs+12%gst,not applicable,12-Jan-26,available,two,,0,1
+P1005,Soap-Hygiene,100rs,not applicable,not applicable,available,two,,1,1
+P1006,Watch--Accessories,15$,upto 30%,not applicable,available,two,,1,0
+P1007,Rice-Grocery,1200rs,not applicable,04-Dec-27,not available,4 star,,1,1
+P1008,Laptop--Electronics,100rs,not applicable,12-Jan-26,not available,three,,1,1
+P1009,Laptop--Electronics,999rs+12%gst,upto 30%,12-Jan-26,available,two,,0,0
+P1010,Chair-Furniture,1200rs,not applicable,not applicable,not available,3 star,,1,1
+P1011,Shampoo-Hygiene,500rs+5%gst,10% off,not applicable,available,two,,0,0
+P1012,TV--Electronics,15$,upto 30%,04-Dec-27,available,5*,,1,0
+P1013,Shampoo-Hygiene,500rs+5%gst,not applicable,12-Jan-26,not available,5*,,0,1
+P1014,Soap-Hygiene,1200rs,upto 30%,12-Jan-26,available,3 star,,1,0
+P1015,Soap-Hygiene,500rs+5%gst,10% off,12-Jan-26,not available,two,,0,0
+P1016,Watch--Accessories,1200rs,not applicable,12-Jan-26,available,4 star,,1,1
+P1017,Chair-Furniture,15$,10% off,not applicable,available,4 star,,1,0
+P1018,Mobile-Electronics,15$,not applicable,not applicable,available,3 star,,1,1
+P1019,TV--Electronics,15$,not applicable,not applicable,available,two,,1,1
+P1020,Shampoo-Hygiene,500rs+5%gst,flat 1000,12-Jan-26,available,two,,0,0
+P1021,Shoes-Footwear,100rs,not applicable,04-Dec-27,not available,three,,1,1
+P1022,Watch--Accessories,100rs,upto 30%,12-Jan-26,available,three,,1,0
+P1023,Soap-Hygiene,500rs+5%gst,not applicable,12-Jan-26,not available,three,,0,1
+P1024,Chair-Furniture,1200rs,10% off,12-Jan-26,available,3 star,,1,0
+P1025,Mobile-Electronics,100rs,not applicable,04-Dec-27,not available,two,,1,1
+P1026,Shoes-Footwear,15$,flat 1000,not applicable,not available,3 star,,1,0
+P1027,Soap-Hygiene,1200rs,10% off,12-Jan-26,available,three,,1,0
+P1028,Rice-Grocery,100rs,not applicable,not applicable,not available,5*,,1,1
+P1029,Rice-Grocery,999rs+12%gst,upto 30%,04-Dec-27,available,three,,0,0
+P1030,Shoes-Footwear,999rs+12%gst,10% off,not applicable,available,three,,0,0
+P1031,TV--Electronics,100rs,flat 1000,04-Dec-27,not available,5*,,1,0
+P1032,Laptop--Electronics,15$,flat 1000,04-Dec-27,available,4 star,,1,0
+P1033,Rice-Grocery,15$,flat 1000,12-Jan-26,not available,two,,1,0
+P1034,Mobile-Electronics,500rs+5%gst,upto 30%,not applicable,not available,3 star,,0,0
+P1035,Shoes-Footwear,1200rs,upto 30%,12-Jan-26,available,3 star,,1,0
+P1036,TV--Electronics,999rs+12%gst,flat 1000,12-Jan-26,available,4 star,,0,0
+P1037,Shoes-Footwear,15$,not applicable,not applicable,not available,5*,,1,1
+P1038,Shoes-Footwear,1200rs,10% off,12-Jan-26,not available,4 star,,1,0
+P1039,Laptop--Electronics,15$,flat 1000,12-Jan-26,available,three,,1,0
+P1040,Watch--Accessories,100rs,upto 30%,not applicable,not available,two,,1,0
+P1041,TV--Electronics,500rs+5%gst,flat 1000,not applicable,available,three,,0,0
+P1042,Mobile-Electronics,500rs+5%gst,not applicable,04-Dec-27,available,two,,0,1
+P1043,Chair-Furniture,500rs+5%gst,10% off,04-Dec-27,not available,3 star,,0,0
+P1044,TV--Electronics,15$,10% off,not applicable,available,4 star,,1,0
+P1045,Mobile-Electronics,1200rs,upto 30%,12-Jan-26,available,5*,,1,0
+P1046,TV--Electronics,100rs,not applicable,04-Dec-27,not available,5*,,1,1
+P1047,Laptop--Electronics,999rs+12%gst,flat 1000,not applicable,not available,4 star,,0,0
+P1048,Shoes-Footwear,500rs+5%gst,10% off,04-Dec-27,not available,3 star,,0,0
+P1049,Shoes-Footwear,1200rs,not applicable,04-Dec-27,available,4 star,,1,1
+P1050,TV--Electronics,100rs,not applicable,12-Jan-26,available,4 star,,1,1
+P1051,Chair-Furniture,15$,flat 1000,04-Dec-27,available,three,,1,0
+P1052,Rice-Grocery,500rs+5%gst,not applicable,04-Dec-27,not available,3 star,,0,1
+P1053,Soap-Hygiene,100rs,10% off,not applicable,not available,5*,,1,0
+P1054,Laptop--Electronics,1200rs,not applicable,not applicable,not available,two,,1,1
+P1055,Shampoo-Hygiene,999rs+12%gst,upto 30%,12-Jan-26,not available,three,,0,0
+P1056,Shoes-Footwear,500rs+5%gst,not applicable,04-Dec-27,available,5*,,0,1
+P1057,Soap-Hygiene,100rs,upto 30%,04-Dec-27,not available,two,,1,0
+P1058,Rice-Grocery,500rs+5%gst,10% off,12-Jan-26,not available,three,,0,0
+P1059,Watch--Accessories,500rs+5%gst,flat 1000,04-Dec-27,not available,two,,0,0
+P1060,Mobile-Electronics,100rs,upto 30%,not applicable,not available,two,,1,0
+P1061,Soap-Hygiene,500rs+5%gst,flat 1000,04-Dec-27,available,3 star,,0,0
+P1062,Laptop--Electronics,1200rs,not applicable,04-Dec-27,available,three,,1,1
+P1063,Chair-Furniture,1200rs,upto 30%,12-Jan-26,not available,4 star,,1,0
+P1064,Rice-Grocery,999rs+12%gst,10% off,04-Dec-27,not available,5*,,0,0
+P1065,Shoes-Footwear,500rs+5%gst,upto 30%,04-Dec-27,not available,3 star,,0,0
+P1066,Rice-Grocery,500rs+5%gst,not applicable,12-Jan-26,not available,5*,,0,1
+P1067,Soap-Hygiene,15$,not applicable,04-Dec-27,available,three,,1,1
+P1068,Watch--Accessories,100rs,not applicable,12-Jan-26,not available,three,,1,1
+P1069,Soap-Hygiene,100rs,not applicable,not applicable,available,3 star,,1,1
+P1070,Mobile-Electronics,500rs+5%gst,10% off,04-Dec-27,not available,two,,0,0
+P1071,Soap-Hygiene,500rs+5%gst,10% off,12-Jan-26,not available,three,,0,0
+P1072,TV--Electronics,1200rs,flat 1000,not applicable,available,3 star,,1,0
+P1073,Chair-Furniture,1200rs,10% off,04-Dec-27,available,three,,1,0
+P1074,Chair-Furniture,100rs,not applicable,12-Jan-26,not available,5*,,1,1
+P1075,TV--Electronics,100rs,10% off,04-Dec-27,not available,three,,1,0
+P1076,Watch--Accessories,1200rs,upto 30%,04-Dec-27,available,4 star,,1,0
+P1077,Soap-Hygiene,500rs+5%gst,10% off,12-Jan-26,not available,three,,0,0
+P1078,Watch--Accessories,500rs+5%gst,flat 1000,12-Jan-26,available,4 star,,0,0
+P1079,Mobile-Electronics,100rs,not applicable,not applicable,not available,two,,1,1
+P1080,Shampoo-Hygiene,100rs,10% off,12-Jan-26,not available,two,,1,0
+P1081,Watch--Accessories,999rs+12%gst,10% off,04-Dec-27,not available,3 star,,0,0
+P1082,Soap-Hygiene,1200rs,flat 1000,not applicable,available,two,,1,0
+P1083,Mobile-Electronics,999rs+12%gst,upto 30%,12-Jan-26,available,3 star,,0,0
+P1084,TV--Electronics,1200rs,flat 1000,not applicable,available,3 star,,1,0
+P1085,Soap-Hygiene,15$,not applicable,12-Jan-26,not available,5*,,1,1
+P1086,Shampoo-Hygiene,999rs+12%gst,flat 1000,04-Dec-27,available,3 star,,0,0
+P1087,Laptop--Electronics,500rs+5%gst,upto 30%,12-Jan-26,available,3 star,,0,0
+P1088,TV--Electronics,999rs+12%gst,not applicable,04-Dec-27,available,two,,0,1
+P1089,Soap-Hygiene,999rs+12%gst,upto 30%,12-Jan-26,not available,two,,0,0
+P1090,Shoes-Footwear,15$,flat 1000,not applicable,available,3 star,,1,0
+P1091,TV--Electronics,999rs+12%gst,flat 1000,not applicable,not available,3 star,,0,0
+P1092,Shampoo-Hygiene,999rs+12%gst,not applicable,12-Jan-26,not available,3 star,,0,1
+P1093,Mobile-Electronics,15$,upto 30%,not applicable,available,3 star,,1,0
+P1094,Laptop--Electronics,15$,flat700,not applicable,not available,three,,1,0
+P1095,TV--Electronics,100rs,not applicable,12-Jan-26,available,3 star,,1,1
+P1096,Shampoo-Hygiene,1200rs,flat 1000,not applicable,not available,4 star,,1,0
+P1097,Soap-Hygiene,500rs+5%gst,not applicable,04-Dec-27,available,4 star,,0,1
+P1098,Shampoo-Hygiene,1200rs,upto 30%,04-Dec-27,available,two,,1,0
+P1099,Shampoo-Hygiene,500rs+5%gst,flat 1000,not applicable,not available,5*,,0,0
+P1006,Watch--Accessories,15$,upto 30%,not applicable,available,two,,1,0
+P1021,Shoes-Footwear,100rs,not applicable,04-Dec-27,not available,three,,1,1
+P1059,Watch--Accessories,500rs+5%gst,flat 100,04-Dec-27,not available,two,,0,0
+P1051,Chair-Furniture,15$,flat 1000,04-Dec-27,available,three,,1,0
+P1060,Mobile-Electronics,100rs,upto30%,not applicable,not available,two,,1,0
+P1038,Shoes-Footwear,1200rs,10% off,12-Jan-26,not available,4 star,,1,0
+P1095,TV--Electronics,100rs,not applicable,12-Jan-26,available,3 star,,1,1
+P1096,Shampoo-Hygiene,1200rs,flat 1000,not applicable,not available,4 star,,1,0
+P1068,Watch--Accessories,100rs,not applicable,12-Jan-26,not available,three,,1,1
+P1029,Rice-Grocery,999rs+12%gst,upto20%,04-Dec-27,available,three,,0,0

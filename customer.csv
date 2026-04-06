@@ -1,0 +1,901 @@
+customer_id,age_in_months,gender,occupation,married,registered_date,premium_status
+C754,255.67,F,Student,y,22-Apr-23,not opted
+C854,251.25,F,Teacher,y,10-Mar-19,no
+C132,214.9,male,Doctor,y,08-Jul-19,not opted
+C833,524.94,female,Farmer,y,09-Oct-20,yes
+C928,634.65,fem,Unemployed,y,24-Dec-17,no
+C448,338.94,male,Unemployed,n,30-Aug-24,opted
+C489,248.36,fem,Student,n,28-Apr-25,no
+C649,262.41,Female,Engineer,n,05-Oct-18,yes
+C691,296.14,Male,Engineer,y,25-Jul-22,opted
+C975,316.4,Male,Farmer,n,21-Sep-20,yes
+C266,385.09,male,Business,n,09-Dec-17,opted
+C723,,female,Business,y,23-Dec-23,no
+C488,334.97,F,Business,y,17-Feb-18,yes
+C963,584.16,Male,Doctor,y,09-Apr-22,no
+C374,233.09,female,Business,n,05-Jun-23,no
+C505,642.34,F,Farmer,y,03-Nov-22,not opted
+C352,572.49,female,Student,n,07-Apr-19,no
+C470,309.66,male,Teacher,n,15-Oct-24,opted
+C981,,F,Doctor,n,14-Feb-19,opted
+C494,390.81,Female,Teacher,n,09-Aug-19,opted
+C796,560.36,F,Teacher,n,15-Aug-18,yes
+C214,346.75,male,Farmer,y,09-Nov-22,not opted
+C619,656.31,fem,Business,n,23-Aug-18,not opted
+C256,386.96,male,Teacher,y,03-Feb-19,yes
+C600,209.74,M,Unemployed,n,15-Feb-23,opted
+C346,639,Male,Engineer,n,12-Jan-25,not opted
+C231,529.88,female,Doctor,n,22-Nov-19,no
+C316,664.46,fem,Business,y,25-Apr-22,no
+C787,524.94,Female,Teacher,n,14-Jun-24,not opted
+C330,232.01,Male,Teacher,y,18-Mar-19,not opted
+C107,235.5,F,Engineer,y,19-Jan-25,opted
+C980,365.21,female,Doctor,n,22-Apr-18,no
+C319,469.62,F,Teacher,n,31-Jan-23,no
+C926,403.53,Male,Engineer,n,01-Nov-21,no
+C520,433.51,F,Engineer,y,16-Feb-25,no
+C845,369.65,fem,Engineer,y,30-Aug-23,not opted
+C649,424.31,Female,Doctor,n,15-Aug-20,not opted
+C995,661.63,Female,Unemployed,y,29-Mar-25,opted
+C195,663.18,fem,Doctor,y,02-Apr-21,no
+C592,306.87,Female,Engineer,y,23-Jul-21,opted
+C499,332.6,fem,Unemployed,n,11-Aug-22,no
+C813,678.66,fem,Teacher,n,27-Jan-24,not opted
+C403,308.85,Male,Teacher,y,17-Apr-22,opted
+C151,492.09,female,Unemployed,y,04-Mar-25,opted
+C971,292.91,female,Engineer,y,13-Apr-21,opted
+C683,323.11,female,Engineer,y,08-Feb-21,yes
+C367,302.13,F,Student,y,31-Oct-22,no
+C234,535.85,M,Farmer,n,29-Dec-24,opted
+C569,510.58,female,Engineer,y,12-Oct-19,not opted
+C618,332.6,M,Engineer,y,31-Aug-21,yes
+C261,419.09,female,Business,n,13-Dec-18,opted
+C783,608.55,M,Business,y,20-Apr-24,yes
+C218,644.86,F,Teacher,y,03-Oct-22,yes
+C719,305.31,M,Doctor,n,21-Feb-20,no
+C357,652.67,fem,Engineer,y,11-Sep-18,no
+C949,338.34,Male,Student,y,31-Aug-18,yes
+C265,570.62,female,Business,n,09-Jul-19,opted
+C214,237.62,F,Doctor,y,01-Sep-21,not opted
+C540,263.72,M,Student,y,18-Oct-21,not opted
+C798,324.76,Male,Student,n,06-Nov-18,not opted
+C342,632.3,fem,Unemployed,y,09-Mar-21,opted
+C283,568.28,M,Unemployed,n,19-Apr-18,not opted
+C373,279.6,F,Engineer,n,17-May-25,no
+C327,299.79,Female,Student,n,04-Apr-23,not opted
+C124,530.02,Female,Student,n,11-Jan-25,yes
+C459,520.74,Female,Business,n,01-Jul-25,opted
+C998,685.2,male,Teacher,n,19-May-25,opted
+C710,417.28,F,Unemployed,n,30-Nov-20,opted
+C494,649.75,male,Student,y,01-Dec-20,opted
+C632,662.79,female,Business,y,22-Sep-21,no
+C171,674.44,M,Teacher,n,15-May-18,opted
+C837,650.02,female,Student,n,24-Feb-22,no
+C813,347.83,male,Doctor,n,09-May-18,no
+C793,574.07,male,Teacher,n,03-Apr-21,opted
+C411,343.46,Female,Unemployed,n,05-Aug-20,no
+C552,537.81,female,Farmer,y,03-Jun-18,opted
+C390,457.73,F,Teacher,n,05-Oct-24,not opted
+C788,355.21,fem,Doctor,y,14-Jul-25,opted
+C350,691.97,female,Unemployed,y,13-Sep-20,no
+C744,487.84,F,Business,n,07-Apr-20,no
+C349,273.79,F,Engineer,y,15-Jan-21,not opted
+C280,602.05,F,Teacher,n,31-Mar-25,not opted
+C968,260.68,male,Unemployed,n,28-Apr-18,yes
+C873,645.71,female,Unemployed,n,31-Aug-19,no
+C262,571.83,Female,Farmer,n,14-Jan-23,yes
+C884,588.84,Female,Business,y,24-Sep-22,no
+C179,556.77,male,Student,n,23-Mar-22,opted
+C241,275.42,Female,Business,y,20-Nov-17,not opted
+C165,407.43,M,Teacher,n,22-Feb-21,opted
+C311,616.45,Female,Unemployed,y,09-May-19,no
+C588,202.95,M,Student,n,09-Feb-21,not opted
+C599,309.71,Female,Farmer,y,13-Jun-21,yes
+C784,539.57,Female,Business,y,26-Jul-20,not opted
+C737,467.06,Female,Teacher,y,13-Nov-24,no
+C238,633.43,male,Engineer,n,23-Jul-21,yes
+C316,427.35,M,Unemployed,n,09-Sep-22,no
+C358,617.46,Female,Engineer,y,19-Nov-21,not opted
+C765,234.31,F,Engineer,y,14-Jan-23,not opted
+C959,210.19,male,Doctor,y,01-Jul-20,opted
+C677,673.88,Female,Business,n,03-Sep-21,not opted
+C720,503.62,F,Business,y,22-Dec-23,yes
+C210,489.34,M,Teacher,n,12-May-21,not opted
+C177,496.05,fem,Business,y,31-Aug-24,yes
+C970,542.13,fem,Engineer,y,30-Nov-21,no
+C777,385.29,female,Business,n,01-Sep-25,no
+C942,445.1,Female,Student,n,16-Nov-17,not opted
+C545,288.07,female,Business,n,26-Nov-18,no
+C576,417.79,F,Teacher,n,12-Mar-22,not opted
+C950,667.31,M,Farmer,y,06-Aug-20,no
+C444,214.35,fem,Student,y,04-May-20,not opted
+C463,598.92,M,Student,n,30-Jul-19,opted
+C629,674.03,Male,Doctor,n,30-Apr-20,not opted
+C807,438.05,F,Farmer,n,13-Aug-25,opted
+C401,310.8,F,Doctor,n,13-May-18,yes
+C584,476.74,M,Farmer,n,11-Nov-21,no
+C377,353.31,male,Engineer,y,09-Apr-22,opted
+C860,467.93,fem,Business,y,30-Aug-23,not opted
+C856,442.1,F,Teacher,n,06-Sep-24,not opted
+C403,313.74,male,Student,y,13-Nov-17,not opted
+C380,222.76,Male,Teacher,n,27-Dec-17,not opted
+C753,634.23,Female,Engineer,y,16-May-19,yes
+C580,439.36,M,Doctor,y,23-Dec-22,no
+C216,611.06,Female,Farmer,y,04-May-19,opted
+C255,274.6,female,Student,y,10-Jan-23,opted
+C671,582.22,female,Teacher,y,13-Dec-19,no
+C561,654.25,M,Unemployed,n,21-May-22,opted
+C724,680.05,Male,Unemployed,y,17-Oct-18,not opted
+C370,530.21,male,Doctor,y,15-Aug-19,opted
+C260,201.34,Female,Business,n,18-Jul-22,opted
+C337,344.05,M,Business,n,04-Jan-25,not opted
+C370,593.91,F,Teacher,y,15-Jan-21,opted
+C657,312.4,male,Student,y,03-Jan-25,opted
+C269,596.31,female,Business,n,19-Nov-20,opted
+C579,544.34,F,Farmer,n,13-Mar-20,no
+C548,240.22,Male,Farmer,n,15-Jan-19,yes
+C126,245.66,F,Unemployed,y,09-Apr-18,yes
+C690,220.12,fem,Doctor,n,28-Dec-19,no
+C384,290.74,female,Farmer,n,14-Oct-24,no
+C456,404.17,M,Business,y,03-Jan-24,yes
+C521,546.84,M,Business,n,22-Aug-19,opted
+C565,244.03,M,Student,y,11-Apr-21,opted
+C773,634.68,Female,Farmer,y,15-Sep-23,yes
+C737,578.22,F,Farmer,y,12-Jul-23,yes
+C662,265.51,M,Farmer,n,12-Jun-24,opted
+C745,504.44,male,Business,y,29-Apr-22,opted
+C665,404,male,Unemployed,y,19-Aug-20,opted
+C763,616.07,Female,Business,n,07-Feb-20,yes
+C525,617.36,Female,Doctor,n,18-Aug-19,not opted
+C492,295.31,female,Teacher,y,10-Jan-25,yes
+C891,595,Female,Student,n,12-Oct-25,yes
+C843,349.28,female,Teacher,n,22-Feb-24,no
+C651,442.17,M,Teacher,n,13-Sep-20,yes
+C990,294.33,F,Doctor,n,11-Mar-23,no
+C144,359.09,Female,Business,n,24-Jun-21,not opted
+C607,682.41,male,Teacher,n,06-Sep-24,no
+C202,462.98,Female,Engineer,y,18-Mar-21,not opted
+C176,434.75,M,Student,n,10-Jul-18,opted
+C972,364.28,F,Unemployed,n,04-Apr-22,no
+C993,470.51,female,Engineer,y,24-Sep-18,yes
+C332,573.38,Female,Engineer,y,31-Oct-20,not opted
+C810,349.73,Male,Engineer,n,07-Mar-25,yes
+C467,387.42,male,Doctor,n,18-Jun-19,not opted
+C274,287.53,female,Unemployed,n,10-Nov-18,not opted
+C609,656.41,male,Doctor,n,28-Aug-18,yes
+C570,327.66,Male,Unemployed,n,01-Aug-22,not opted
+C175,420.86,M,Teacher,n,23-Aug-18,no
+C806,325.05,fem,Student,y,30-Jun-21,no
+C209,318.6,female,Student,n,19-Dec-17,yes
+C122,688.97,F,Farmer,n,19-Sep-25,opted
+C720,572.59,fem,Student,y,01-Jan-19,yes
+C324,518.31,female,Student,y,06-Oct-18,opted
+C742,523.17,M,Unemployed,n,08-Jun-25,yes
+C849,265.71,M,Student,n,03-Nov-23,not opted
+C235,593.26,M,Teacher,n,19-Dec-23,yes
+C944,672.09,fem,Student,n,08-Jul-24,no
+C177,270.38,male,Unemployed,n,24-Jul-19,yes
+C192,595.34,Male,Student,y,16-Sep-20,yes
+C788,574.51,M,Teacher,n,25-Aug-18,yes
+C210,537.42,Female,Engineer,n,20-Dec-18,not opted
+C763,231.61,fem,Farmer,n,12-Jul-18,no
+C219,269.89,Male,Student,n,04-Jul-24,opted
+C340,643.63,male,Farmer,n,25-Aug-21,no
+C701,571.13,male,Farmer,y,27-Apr-20,no
+C386,216.36,M,Doctor,n,27-Oct-20,not opted
+C975,381.34,F,Student,n,16-Feb-25,no
+C382,294.9,Male,Unemployed,n,12-Oct-24,not opted
+C757,519.75,Male,Engineer,n,29-Jan-23,not opted
+C905,482.29,Male,Unemployed,y,27-Mar-19,not opted
+C932,634.85,M,Unemployed,y,15-Feb-19,opted
+C383,629.2,male,Doctor,n,08-Nov-23,opted
+C776,633.22,male,Engineer,n,21-Feb-23,yes
+C116,287.12,Male,Doctor,n,29-Nov-19,opted
+C863,231.78,Female,Unemployed,n,20-Jan-20,opted
+C562,451.92,female,Engineer,n,02-Sep-20,opted
+C162,699.29,fem,Farmer,n,11-Feb-18,opted
+C602,556.2,Female,Engineer,y,13-Mar-22,not opted
+C167,263.1,female,Business,n,15-Jul-21,yes
+C564,452.78,Female,Engineer,y,20-Jun-18,not opted
+C540,425.78,male,Farmer,n,21-Sep-20,no
+C525,564.81,M,Farmer,n,08-May-18,yes
+C483,676.8,F,Farmer,y,14-Oct-24,opted
+C195,415.94,F,Business,n,08-May-24,opted
+C700,678.31,female,Student,y,15-Mar-21,yes
+C994,532.67,fem,Farmer,y,01-Aug-22,yes
+C460,251.8,female,Doctor,y,12-Jun-18,no
+C329,623.64,M,Unemployed,n,09-Jul-24,yes
+C687,313.08,Female,Unemployed,y,24-Dec-18,yes
+C129,290.21,F,Unemployed,n,31-Dec-21,yes
+C106,290.7,male,Teacher,n,10-Jan-25,not opted
+C858,516.59,Male,Engineer,y,04-Aug-21,no
+C564,370.45,M,Student,n,12-Jun-19,opted
+C153,277.79,fem,Teacher,y,02-Apr-18,opted
+C378,421.56,Female,Farmer,n,01-Mar-21,yes
+C320,577.47,Male,Student,n,25-Jul-24,yes
+C794,539.24,Female,Teacher,n,19-Apr-25,not opted
+C504,692.22,Male,Engineer,y,06-Jun-22,not opted
+C885,268.62,M,Student,n,18-Jun-24,opted
+C609,573.51,male,Doctor,n,02-Nov-19,not opted
+C612,479.36,F,Unemployed,n,31-Dec-24,no
+C982,571.02,Female,Engineer,n,08-Dec-24,yes
+C689,414.64,Female,Business,n,25-Jul-22,opted
+C514,210.43,M,Doctor,n,28-Jan-18,yes
+C190,418.36,Male,Doctor,n,16-Mar-19,no
+C636,239.32,fem,Student,n,29-Apr-23,yes
+C897,284.07,female,Business,y,10-Nov-19,not opted
+C894,374.69,F,Unemployed,y,28-Feb-23,opted
+C249,327.98,male,Teacher,y,17-Jun-18,opted
+C281,675.65,F,Farmer,n,27-Jun-19,no
+C797,662.08,female,Business,n,10-Oct-18,yes
+C254,419.88,Female,Farmer,n,23-Sep-22,opted
+C460,453.67,M,Farmer,n,21-May-25,opted
+C477,615.85,Male,Business,y,29-Nov-18,no
+C573,490.16,fem,Business,y,06-Oct-20,not opted
+C429,502.5,female,Doctor,y,03-Oct-20,opted
+C930,649.56,M,Business,y,25-Feb-20,not opted
+C140,323.87,Female,Farmer,y,23-Sep-21,yes
+C389,393.71,fem,Student,y,25-Sep-18,yes
+C167,364.85,female,Business,n,16-Aug-22,yes
+C841,625.78,female,Unemployed,y,26-Jan-22,opted
+C696,531.81,M,Student,n,12-May-24,opted
+C417,479.46,F,Unemployed,n,17-May-24,opted
+C761,535.23,female,Student,y,28-Sep-21,yes
+C284,675.58,M,Unemployed,n,28-Aug-23,not opted
+C240,277.47,M,Unemployed,y,12-Feb-20,opted
+C777,368.38,fem,Teacher,y,10-Feb-19,no
+C257,281.12,fem,Business,y,25-Nov-20,opted
+C520,382.15,F,Doctor,n,18-Dec-18,yes
+C870,574.27,Female,Doctor,y,04-May-22,no
+C955,297.01,F,Teacher,n,18-Aug-20,yes
+C896,390.94,female,Farmer,y,28-Jul-23,not opted
+C993,325,F,Farmer,n,04-Aug-19,opted
+C828,622.95,fem,Engineer,n,13-Nov-24,not opted
+C379,424.66,female,Doctor,n,12-Oct-24,not opted
+C936,425.56,M,Engineer,n,18-Mar-25,no
+C614,386.98,Female,Engineer,n,17-Apr-23,opted
+C426,665.41,fem,Business,n,03-Mar-24,not opted
+C139,343.44,fem,Farmer,y,24-Nov-17,no
+C559,507.67,Male,Engineer,n,23-May-23,not opted
+C661,670.11,female,Teacher,n,24-Jul-24,yes
+C343,350.58,Male,Doctor,n,23-Aug-18,no
+C164,255.43,Female,Teacher,y,21-Sep-18,not opted
+C835,271.79,Female,Engineer,n,10-Feb-23,no
+C291,532.19,Male,Teacher,n,18-Jan-25,opted
+C499,636.67,Male,Business,n,15-Aug-21,yes
+C865,208.12,fem,Engineer,n,08-Feb-23,opted
+C890,490.95,fem,Student,y,24-Apr-25,yes
+C659,369.27,F,Doctor,n,04-Jan-18,no
+C746,291.14,male,Engineer,n,24-May-25,yes
+C306,221.9,male,Engineer,n,01-May-22,no
+C934,471.52,M,Engineer,y,08-Aug-22,yes
+C982,590.42,fem,Business,n,29-Sep-22,opted
+C918,384.01,Female,Business,n,22-Jun-21,yes
+C291,448.1,Female,Student,n,18-Nov-24,no
+C180,415.3,fem,Doctor,n,17-Mar-22,opted
+C181,363.96,M,Student,n,19-Jan-19,no
+C270,544.88,M,Farmer,y,08-Nov-21,no
+C381,519.73,fem,Engineer,y,13-Apr-18,no
+C472,456.54,F,Business,y,17-Jun-25,not opted
+C969,503.79,fem,Farmer,y,23-May-24,opted
+C341,589.26,M,Student,n,13-Jun-19,opted
+C719,276.72,Female,Student,n,30-Oct-20,opted
+C687,268.85,M,Farmer,n,11-Jul-18,yes
+C355,680.26,Male,Business,y,18-Mar-20,no
+C675,258.88,fem,Student,n,28-May-23,yes
+C810,658.24,Female,Doctor,y,15-Apr-24,opted
+C562,286.33,F,Farmer,y,28-Feb-18,yes
+C783,373.71,Male,Teacher,n,12-Jun-22,not opted
+C828,554.78,F,Business,y,03-Oct-21,not opted
+C224,692.57,fem,Doctor,y,08-Apr-20,opted
+C469,477.01,M,Farmer,y,12-Dec-18,opted
+C167,354.65,F,Business,n,30-Nov-19,no
+C887,404.72,female,Engineer,y,03-Apr-22,opted
+C560,432.92,female,Student,y,17-Aug-19,not opted
+C886,683.13,Female,Teacher,y,01-Jun-24,not opted
+C411,282.33,M,Business,y,05-Dec-21,yes
+C966,239.43,male,Business,n,28-May-24,yes
+C729,466.74,female,Business,y,04-Mar-19,not opted
+C275,529.37,F,Teacher,n,28-Jun-19,opted
+C945,631.89,Male,Engineer,n,04-Jul-18,not opted
+C885,486.07,female,Business,y,23-Mar-20,yes
+C757,678.33,Female,Doctor,n,22-Jun-22,no
+C174,544.31,male,Farmer,n,18-May-20,no
+C308,370.1,male,Student,n,08-Dec-21,no
+C233,580.33,female,Teacher,y,25-Mar-22,not opted
+C577,261.26,Female,Doctor,y,21-Sep-24,opted
+C397,672.69,fem,Teacher,n,10-Jan-23,not opted
+C933,363.72,female,Business,n,06-Sep-23,not opted
+C610,697.98,Female,Farmer,n,25-Mar-20,opted
+C192,672.62,female,Farmer,y,25-May-23,yes
+C149,225.27,Female,Teacher,n,09-Aug-22,opted
+C967,253.75,male,Student,n,15-Apr-21,yes
+C146,400.29,female,Teacher,y,29-Sep-21,yes
+C175,393.17,Female,Unemployed,n,27-Oct-18,opted
+C231,687.54,Female,Student,n,22-Jul-19,yes
+C873,272.13,female,Teacher,n,14-Mar-20,opted
+C146,219.46,F,Student,n,26-Dec-19,no
+C252,503.13,female,Doctor,n,07-Dec-18,yes
+C266,396.48,female,Business,n,25-Feb-19,yes
+C619,614.14,female,Farmer,n,25-Jun-20,opted
+C477,365.62,Male,Farmer,n,03-Feb-18,opted
+C711,437.3,F,Unemployed,y,26-Mar-25,no
+C274,462.12,F,Teacher,n,25-Feb-24,not opted
+C132,486.29,F,Engineer,y,06-Aug-25,no
+C421,409.39,Female,Business,y,17-Mar-21,no
+C993,624.19,F,Engineer,y,29-Dec-19,not opted
+C674,362.52,F,Farmer,n,16-Apr-22,not opted
+C570,656.06,M,Teacher,n,25-Mar-18,yes
+C724,442.09,male,Student,n,15-Apr-23,yes
+C889,344.5,male,Business,n,03-Apr-22,no
+C457,480.24,fem,Business,n,01-Aug-22,opted
+C687,538.31,Female,Farmer,n,02-Mar-24,yes
+C143,343.82,F,Engineer,n,06-Nov-20,yes
+C865,439.54,male,Unemployed,n,04-Jul-19,yes
+C240,254.61,F,Teacher,y,02-Feb-23,opted
+C785,652.59,male,Business,y,21-Mar-25,opted
+C523,365.15,Female,Engineer,y,01-Oct-25,not opted
+C516,526.45,Female,Farmer,y,03-Aug-22,yes
+C392,522.95,fem,Engineer,y,23-Oct-19,opted
+C279,408.94,fem,Doctor,y,10-May-21,no
+C290,668.3,fem,Student,y,15-Sep-25,yes
+C681,501.39,M,Student,n,14-Aug-18,no
+C237,625.53,Female,Student,y,18-Jul-24,yes
+C266,565.56,F,Student,y,26-Aug-25,yes
+C909,347.51,F,Unemployed,y,04-Nov-23,no
+C946,413.85,M,Engineer,n,21-Apr-18,opted
+C289,690.84,Female,Student,y,25-Sep-25,yes
+C492,317.76,fem,Student,n,04-Jun-22,opted
+C367,526.84,F,Doctor,y,27-Apr-18,opted
+C576,353.4,Female,Business,n,25-Jan-18,opted
+C754,658.07,M,Student,y,09-May-23,not opted
+C589,276.59,F,Teacher,n,22-Feb-21,no
+C875,468.76,F,Unemployed,y,13-Jan-23,opted
+C638,423.37,F,Student,y,26-Jun-19,opted
+C163,614.39,female,Doctor,y,19-Dec-23,yes
+C974,460.17,Male,Business,y,09-Apr-19,no
+C193,649.44,Female,Unemployed,y,21-Sep-20,not opted
+C625,407.71,female,Engineer,n,07-Apr-18,yes
+C840,210.89,M,Unemployed,y,14-May-23,opted
+C146,411.85,F,Engineer,y,13-Jan-25,no
+C132,343.55,male,Unemployed,y,13-Aug-18,no
+C483,696.43,Female,Farmer,n,06-Aug-21,opted
+C799,682.07,fem,Teacher,y,25-Jun-18,yes
+C221,289.24,female,Farmer,y,24-Apr-23,opted
+C874,211.37,M,Farmer,n,05-Nov-19,no
+C943,314.83,Female,Student,y,19-Sep-22,not opted
+C996,562.51,Male,Engineer,n,30-Nov-18,opted
+C346,303.04,Male,Teacher,y,20-Oct-20,opted
+C350,570.27,Female,Farmer,y,04-Oct-19,not opted
+C872,631.87,Male,Doctor,n,08-Mar-23,yes
+C691,498.96,F,Unemployed,n,25-Feb-23,yes
+C997,271.63,F,Teacher,y,04-Mar-21,yes
+C381,230.48,female,Business,y,15-Oct-18,no
+C669,447.81,M,Business,n,05-Dec-19,yes
+C813,408.16,male,Student,n,30-Sep-23,no
+C346,624.67,M,Unemployed,y,13-Aug-20,opted
+C675,406.34,Female,Teacher,y,15-Jun-21,not opted
+C361,301.67,F,Engineer,n,25-Aug-21,opted
+C648,562.29,male,Engineer,n,31-Jul-21,opted
+C994,236.39,fem,Unemployed,y,07-Jun-20,not opted
+C990,653.52,M,Engineer,y,05-Sep-23,opted
+C864,699.79,Female,Doctor,y,12-May-21,not opted
+C665,360.81,M,Farmer,n,29-Oct-19,yes
+C415,330.78,female,Farmer,n,14-Sep-24,no
+C879,619.87,male,Student,n,02-Mar-21,opted
+C676,632.04,F,Doctor,y,19-Nov-22,no
+C402,276.21,M,Doctor,n,03-Jun-19,not opted
+C611,475.32,F,Student,n,30-Apr-20,no
+C571,284.12,fem,Student,y,28-Mar-24,no
+C288,658.45,female,Business,y,07-Dec-19,opted
+C959,623.35,fem,Business,y,26-Sep-25,no
+C240,621.27,male,Engineer,y,15-Sep-25,not opted
+C617,428,Male,Teacher,n,01-Jun-18,no
+C116,203.31,female,Farmer,y,15-Aug-25,yes
+C648,688.74,Male,Teacher,n,19-Oct-23,opted
+C198,462.19,male,Doctor,n,01-Nov-21,yes
+C914,398.45,M,Farmer,n,22-Jun-19,not opted
+C813,312.93,F,Unemployed,y,24-Jun-18,opted
+C195,402.64,Female,Teacher,n,07-Mar-25,opted
+C819,285.69,Female,Unemployed,n,30-Jul-18,yes
+C679,688.66,Male,Teacher,y,26-Mar-23,not opted
+C988,546.14,female,Farmer,n,15-Apr-25,opted
+C800,662.79,female,Teacher,y,19-Oct-23,yes
+C116,680.73,female,Doctor,n,11-Dec-24,yes
+C266,481.98,female,Unemployed,n,20-Mar-18,yes
+C493,577.8,male,Unemployed,y,11-Mar-20,yes
+C154,248.84,male,Unemployed,y,27-Dec-21,no
+C892,363.19,F,Student,n,22-Apr-20,not opted
+C464,476.52,Female,Farmer,y,09-Mar-18,no
+C187,586.08,M,Unemployed,y,25-Dec-24,opted
+C374,277.11,F,Unemployed,y,10-Jun-21,yes
+C469,253.28,Male,Student,n,09-Oct-21,yes
+C204,266.25,male,Farmer,n,25-Jul-19,no
+C205,213.13,M,Teacher,y,11-Feb-19,yes
+C984,392.62,M,Farmer,n,10-Nov-24,not opted
+C685,460.55,F,Farmer,y,02-Apr-24,yes
+C408,334.2,male,Engineer,y,07-Dec-20,yes
+C531,349.88,fem,Engineer,n,27-Dec-22,not opted
+C838,512.52,female,Teacher,y,03-Sep-20,opted
+C238,352.33,Female,Student,n,11-Feb-22,no
+C442,415.31,fem,Unemployed,y,10-Jun-22,yes
+C717,673.64,male,Farmer,n,26-Oct-23,no
+C426,345.72,F,Business,n,09-May-19,not opted
+C433,388.03,fem,Unemployed,n,18-Sep-21,opted
+C677,299.9,female,Doctor,y,19-Aug-20,not opted
+C548,598.84,fem,Business,y,22-Mar-21,no
+C242,516.67,male,Student,y,23-Jan-21,no
+C175,424.53,female,Farmer,n,26-Oct-19,no
+C656,218.38,M,Business,y,01-Aug-24,not opted
+C773,532.35,male,Business,y,30-Jun-19,no
+C870,365.8,fem,Farmer,y,09-Sep-25,opted
+C364,311,F,Teacher,y,23-Oct-20,yes
+C500,431.53,F,Teacher,y,10-Dec-21,opted
+C594,252.27,Female,Engineer,y,21-Mar-24,yes
+C419,371.53,fem,Doctor,n,26-Nov-21,no
+C199,419.08,F,Farmer,n,20-Jan-25,yes
+C145,605.09,Male,Engineer,n,17-Jul-18,opted
+C793,600.03,F,Doctor,y,15-Aug-19,not opted
+C438,479.92,Female,Doctor,n,30-Sep-18,not opted
+C290,520.24,Female,Farmer,y,03-Dec-18,not opted
+C560,496.1,Female,Engineer,y,03-Jul-23,yes
+C870,551.88,fem,Engineer,y,15-Oct-19,not opted
+C474,362.99,Female,Engineer,n,15-Apr-18,no
+C640,682.96,M,Teacher,n,15-Dec-18,no
+C701,257.12,M,Unemployed,n,20-Nov-18,not opted
+C933,536.79,fem,Student,y,10-Apr-18,not opted
+C420,258.93,M,Engineer,y,15-Aug-21,not opted
+C623,394.23,female,Doctor,n,24-Jan-21,not opted
+C598,517.75,F,Business,y,03-Aug-19,not opted
+C601,344.42,male,Student,n,11-Nov-18,opted
+C986,379.52,Male,Farmer,y,15-Aug-23,no
+C675,452.72,Female,Farmer,n,23-Feb-21,no
+C600,283.63,female,Engineer,y,14-Jul-22,opted
+C381,312.42,M,Doctor,n,20-Jun-19,no
+C662,455.4,female,Engineer,n,20-Sep-19,yes
+C655,611.31,Male,Unemployed,n,07-Sep-19,not opted
+C535,251.21,fem,Business,y,21-Jun-22,opted
+C560,331.41,fem,Unemployed,y,19-Nov-20,opted
+C894,605.94,male,Unemployed,n,19-Dec-18,no
+C269,508.08,fem,Doctor,y,21-Feb-25,yes
+C645,340.54,female,Doctor,n,30-Nov-17,yes
+C396,486.37,fem,Teacher,y,15-Apr-24,no
+C160,696.24,fem,Business,y,10-Dec-17,not opted
+C355,273.12,M,Unemployed,y,24-Mar-18,no
+C601,271.09,F,Student,n,08-Aug-21,no
+C177,516.81,fem,Engineer,n,11-Jan-20,yes
+C811,668.17,M,Farmer,n,20-Feb-22,opted
+C989,587.07,F,Engineer,n,09-Sep-18,yes
+C970,231.67,female,Farmer,y,28-Dec-20,not opted
+C606,334.27,fem,Student,n,03-Sep-19,not opted
+C679,626.21,fem,Student,y,17-Apr-25,opted
+C741,591.94,Female,Engineer,y,14-Jan-24,no
+C567,200.34,Female,Doctor,y,09-Jul-18,yes
+C262,637.21,M,Engineer,n,01-Jan-23,opted
+C480,532.25,F,Doctor,y,13-May-21,yes
+C843,549.72,male,Farmer,y,01-Dec-17,opted
+C101,306.71,Male,Doctor,y,26-Dec-19,no
+C109,204.03,M,Unemployed,y,27-Jan-21,not opted
+C589,235.41,Female,Engineer,y,26-Aug-24,yes
+C476,640.49,male,Farmer,y,13-Aug-18,not opted
+C170,465.25,Male,Teacher,y,15-Nov-20,yes
+C839,306.53,F,Doctor,n,25-Nov-18,no
+C980,308.62,Male,Doctor,y,14-Mar-19,no
+C459,681.62,M,Unemployed,y,12-Jan-23,yes
+C760,242.12,female,Teacher,n,24-Jan-18,opted
+C968,623.54,M,Doctor,y,01-Jun-21,yes
+C761,227.28,fem,Doctor,n,25-Jun-21,opted
+C346,449.79,female,Engineer,y,04-Oct-21,yes
+C235,393.42,fem,Teacher,n,17-Sep-21,not opted
+C881,435.51,fem,Engineer,y,23-Mar-19,opted
+C114,331.09,Male,Engineer,n,16-Feb-20,yes
+C743,556.31,fem,Farmer,n,09-Dec-17,no
+C184,520.27,female,Teacher,y,12-Sep-22,opted
+C417,239.51,male,Unemployed,y,17-Oct-19,yes
+C500,493.22,fem,Unemployed,y,01-May-22,no
+C847,676.71,male,Engineer,y,03-Nov-24,no
+C218,426.69,female,Engineer,n,04-May-18,not opted
+C222,206.33,male,Business,y,21-Dec-23,no
+C455,461.5,fem,Unemployed,n,09-Dec-23,yes
+C229,574.89,fem,Student,y,24-Jun-25,yes
+C926,414.66,female,Engineer,n,06-May-19,opted
+C608,427.6,M,Engineer,n,15-Jun-19,not opted
+C476,278.65,fem,Engineer,y,01-Apr-23,opted
+C145,629.34,Male,Doctor,y,08-Jul-20,yes
+C492,660.11,male,Unemployed,y,11-Aug-19,no
+C329,360.9,Female,Business,n,07-Oct-22,opted
+C685,386.4,female,Business,y,19-Oct-23,not opted
+C923,457.89,Male,Farmer,y,04-Aug-20,yes
+C892,622.42,M,Engineer,n,20-Sep-25,yes
+C305,345.8,fem,Student,y,09-Aug-20,yes
+C705,685.93,fem,Unemployed,y,06-Sep-19,not opted
+C254,203.19,Female,Engineer,y,26-Sep-19,yes
+C751,619.79,Male,Student,y,09-Jun-18,no
+C969,569.04,M,Engineer,y,13-Nov-19,not opted
+C529,446.01,Male,Doctor,n,06-Oct-24,opted
+C337,648.64,female,Farmer,n,01-Sep-20,opted
+C694,247.79,male,Business,n,20-Dec-24,opted
+C545,531.22,male,Doctor,n,18-Nov-22,yes
+C920,396.48,fem,Business,n,30-Mar-22,no
+C378,316.81,male,Doctor,y,25-Jan-24,opted
+C268,424.78,M,Farmer,y,19-Oct-19,yes
+C888,303.82,M,Farmer,n,18-Jun-24,opted
+C261,603.8,M,Unemployed,y,26-May-23,yes
+C251,245.61,male,Student,n,19-Jan-20,opted
+C793,349.42,fem,Doctor,y,10-Apr-21,no
+C669,574.04,male,Engineer,n,31-Aug-24,not opted
+C224,205.98,fem,Unemployed,y,05-May-24,not opted
+C943,400.29,F,Business,y,12-Apr-19,yes
+C932,237.49,Male,Doctor,n,13-May-24,opted
+C967,614.68,M,Engineer,y,21-Aug-20,opted
+C272,662.07,Female,Unemployed,n,30-Mar-20,opted
+C491,541.61,male,Student,y,17-Sep-23,yes
+C386,423.01,male,Engineer,y,20-Jul-18,yes
+C610,406,female,Farmer,y,28-Oct-24,yes
+C492,268.62,male,Business,y,26-Sep-18,opted
+C491,590.96,M,Farmer,n,13-Dec-21,yes
+C497,335.22,Male,Student,y,24-Jun-25,yes
+C159,604.33,Female,Teacher,n,05-Apr-19,not opted
+C263,250.07,F,Doctor,n,29-Oct-19,opted
+C882,698.2,male,Teacher,n,30-Oct-21,not opted
+C280,318.28,M,Unemployed,n,05-Mar-19,opted
+C820,550.28,female,Teacher,y,30-Jun-19,not opted
+C956,694,Female,Teacher,n,03-Nov-23,no
+C138,245.13,male,Teacher,y,02-Aug-25,no
+C100,365.87,female,Doctor,y,27-Dec-21,not opted
+C921,622.14,M,Engineer,y,25-Feb-24,not opted
+C892,255.46,female,Unemployed,n,29-Dec-24,yes
+C821,670.96,Female,Teacher,y,13-Jan-22,yes
+C430,268.23,male,Business,n,22-Aug-18,no
+C764,358.64,F,Teacher,n,22-Apr-23,not opted
+C487,353.41,F,Student,y,26-Oct-23,opted
+C818,674.35,Female,Unemployed,y,08-Oct-23,yes
+C928,683.77,male,Business,y,30-Mar-20,not opted
+C439,572.67,male,Student,n,05-Dec-23,opted
+C941,554.48,F,Business,n,19-Oct-20,opted
+C371,304.84,F,Engineer,n,06-Dec-22,opted
+C837,200.64,Female,Farmer,n,11-Dec-23,no
+C604,640.89,M,Teacher,n,02-Sep-24,no
+C907,632.03,F,Unemployed,y,26-Dec-23,no
+C175,599.6,Male,Student,y,27-Mar-22,yes
+C207,237.1,male,Farmer,y,19-Dec-24,opted
+C446,497.02,female,Farmer,y,21-Dec-20,not opted
+C721,644.88,male,Engineer,y,04-Feb-22,not opted
+C294,404.64,female,Business,n,27-May-18,yes
+C404,318.77,Male,Farmer,n,01-Feb-24,opted
+C469,201.91,Male,Student,n,28-Jul-23,opted
+C126,303.48,F,Student,y,01-Jul-20,opted
+C415,592.44,Female,Farmer,n,14-Oct-24,no
+C289,385.51,Female,Student,y,23-Oct-20,opted
+C369,419.87,M,Doctor,n,25-Jun-19,opted
+C254,576.12,F,Engineer,y,26-Apr-18,yes
+C927,470.72,fem,Teacher,y,08-Aug-19,opted
+C960,393.55,female,Farmer,n,22-May-19,not opted
+C587,349.43,Female,Unemployed,y,06-Mar-20,not opted
+C223,674.63,Female,Doctor,y,08-Jun-23,not opted
+C229,221.34,Male,Business,n,18-Jul-23,not opted
+C954,497.52,M,Business,y,31-Oct-24,no
+C669,398.68,M,Unemployed,n,25-Dec-19,no
+C994,206.18,F,Teacher,n,19-Jul-24,no
+C253,274.1,female,Teacher,y,16-Aug-24,opted
+C904,343.05,female,Student,n,06-Nov-22,no
+C770,442.79,female,Farmer,y,17-Nov-23,yes
+C512,271.93,female,Business,n,17-May-25,no
+C439,545.26,Male,Business,n,18-Oct-22,yes
+C120,368.93,fem,Student,n,31-Aug-22,no
+C978,548.09,Male,Unemployed,y,20-Apr-24,yes
+C861,421.56,fem,Student,n,18-Feb-21,opted
+C292,420.86,fem,Farmer,n,07-Jan-20,yes
+C940,228.1,fem,Doctor,y,27-Apr-22,no
+C238,590.26,female,Teacher,y,11-Nov-23,not opted
+C996,616.46,fem,Engineer,y,09-Jun-25,no
+C151,659.02,F,Doctor,n,05-Sep-21,no
+C617,398.47,Male,Business,y,05-Feb-23,yes
+C600,497.02,male,Unemployed,n,25-Mar-19,yes
+C452,281.76,M,Business,y,12-Aug-22,opted
+C495,224.83,fem,Teacher,y,30-Apr-23,not opted
+C793,303.37,F,Farmer,y,27-Feb-18,opted
+C585,655.76,F,Doctor,y,20-Apr-23,yes
+C722,602.54,M,Business,n,21-Jan-21,no
+C972,374.35,M,Doctor,n,03-Jun-22,no
+C698,251.16,female,Business,n,07-Jul-19,yes
+C405,542.21,Female,Engineer,n,16-Sep-22,yes
+C982,338.44,F,Business,n,12-Sep-23,not opted
+C629,582.74,Male,Unemployed,n,27-May-18,yes
+C797,269.96,Male,Business,n,30-Jun-22,yes
+C528,402.3,F,Engineer,y,17-Dec-21,not opted
+C802,467.32,fem,Farmer,n,14-Feb-20,yes
+C965,284.99,F,Teacher,y,07-Jul-22,opted
+C582,263.97,M,Business,y,09-Mar-18,yes
+C770,244.65,M,Doctor,n,03-Feb-21,yes
+C480,330.28,M,Farmer,y,13-Jul-20,opted
+C987,517.2,female,Teacher,y,06-Jul-20,not opted
+C612,259.91,F,Farmer,n,05-Mar-21,opted
+C991,627.12,male,Doctor,n,21-Mar-21,no
+C246,358.19,F,Doctor,y,04-May-20,yes
+C746,693.32,M,Business,y,03-Oct-25,no
+C380,304.69,fem,Doctor,y,26-Apr-20,opted
+C232,507.24,F,Farmer,n,30-Dec-20,no
+C492,202.33,female,Doctor,n,26-Aug-25,yes
+C875,616.61,male,Engineer,y,13-Oct-18,not opted
+C331,546.76,M,Student,y,28-Aug-24,no
+C615,494.34,male,Engineer,y,19-Jun-22,yes
+C566,563.92,female,Teacher,n,11-Dec-20,not opted
+C450,698.07,Female,Student,y,17-Dec-23,no
+C119,314.21,F,Doctor,y,25-Jul-25,not opted
+C226,383.3,F,Unemployed,y,08-Aug-21,yes
+C889,467.37,Male,Teacher,y,21-May-18,opted
+C769,618.06,Male,Business,y,18-Feb-21,no
+C489,261.8,M,Farmer,y,04-Jul-23,opted
+C408,410.44,Male,Business,n,29-Oct-18,not opted
+C528,615.33,Male,Teacher,y,22-Aug-22,opted
+C903,253.13,male,Teacher,y,10-Nov-22,not opted
+C466,551.72,M,Doctor,y,30-Aug-19,no
+C312,544.1,Female,Student,y,11-Oct-25,opted
+C787,244.5,Male,Unemployed,n,20-Feb-24,opted
+C898,455.85,F,Business,y,09-Dec-22,not opted
+C567,694.33,M,Student,n,31-Mar-25,opted
+C932,287.35,Male,Unemployed,n,08-Oct-21,yes
+C536,569.27,Male,Unemployed,y,13-Sep-25,not opted
+C779,523.6,M,Student,n,02-Nov-18,yes
+C999,566.53,M,Unemployed,n,04-Oct-23,opted
+C510,400.13,Female,Student,n,27-Jan-18,no
+C919,410.87,fem,Doctor,y,28-Apr-24,opted
+C964,279.7,Female,Teacher,n,06-Jun-19,no
+C285,505.66,fem,Student,y,18-Feb-18,not opted
+C594,660.2,Male,Farmer,n,17-Apr-25,opted
+C367,527.49,Male,Business,y,19-Apr-18,yes
+C631,461.55,F,Teacher,y,15-Dec-20,not opted
+C593,372.87,F,Business,n,22-Feb-24,opted
+C111,521.7,male,Teacher,n,01-Apr-20,not opted
+C176,575.72,M,Doctor,n,09-Sep-22,opted
+C619,311.35,F,Farmer,n,05-Mar-23,opted
+C570,422.09,female,Farmer,y,21-Mar-20,no
+C423,259.35,Female,Business,y,28-Aug-24,no
+C522,217.92,female,Engineer,y,13-Jan-19,yes
+C620,481.17,F,Business,n,26-Dec-21,yes
+C945,227.14,male,Unemployed,n,01-Feb-22,no
+C833,528.58,F,Farmer,y,18-Sep-24,not opted
+C102,370.68,fem,Business,n,01-Sep-19,yes
+C818,253.16,male,Farmer,y,21-Mar-21,opted
+C360,505.43,male,Engineer,n,23-May-23,no
+C944,590.71,F,Student,y,28-Feb-21,opted
+C748,618.73,female,Engineer,n,05-Sep-20,not opted
+C610,202.17,F,Engineer,n,01-Apr-19,no
+C620,590.54,male,Business,y,15-May-24,opted
+C496,528.76,female,Student,n,11-Feb-21,not opted
+C380,398.93,M,Student,n,24-Apr-24,not opted
+C522,501.26,F,Teacher,n,10-Dec-17,yes
+C828,568.41,female,Business,y,23-Jul-23,not opted
+C739,557.19,F,Student,y,09-Jul-18,not opted
+C615,471.25,F,Student,y,10-Nov-21,no
+C696,485.32,F,Business,n,01-Apr-18,yes
+C998,623.65,fem,Engineer,y,11-Jul-25,no
+C248,226.53,Male,Doctor,n,02-Jan-24,yes
+C799,325.28,fem,Engineer,n,10-Jul-23,opted
+C467,607.01,Male,Teacher,y,21-Jul-18,no
+C343,455.46,fem,Unemployed,n,14-Jan-18,opted
+C490,393.78,fem,Business,n,14-Aug-19,opted
+C113,571.83,male,Teacher,n,13-Apr-23,yes
+C873,494.19,F,Teacher,y,22-Aug-23,yes
+C559,288.71,F,Engineer,y,11-Nov-23,opted
+C486,220.32,M,Teacher,n,08-May-24,not opted
+C698,623.01,Male,Student,n,27-Jan-24,opted
+C257,664.31,female,Engineer,n,22-Apr-20,yes
+C174,592.02,M,Teacher,y,30-Sep-23,opted
+C905,452.57,Female,Teacher,n,11-Oct-24,yes
+C326,641.7,F,Student,n,06-Oct-21,yes
+C323,675.15,female,Teacher,n,07-Jul-19,opted
+C217,534.47,Female,Doctor,y,12-May-25,yes
+C490,657.97,Male,Farmer,n,02-Oct-19,yes
+C125,655.67,fem,Unemployed,n,16-Jan-20,no
+C598,221.93,F,Doctor,n,18-Jan-20,opted
+C198,283.7,fem,Teacher,y,12-Oct-18,opted
+C315,535.17,fem,Doctor,n,23-Aug-24,not opted
+C650,614.37,F,Unemployed,n,23-Jul-18,opted
+C864,543.02,Male,Farmer,n,20-May-25,opted
+C175,227.13,fem,Student,y,12-May-19,not opted
+C364,403.82,Female,Business,n,14-Dec-20,yes
+C117,394.75,Male,Teacher,y,13-Aug-18,opted
+C874,572.98,Male,Business,y,18-Oct-21,opted
+C396,593.45,M,Teacher,y,26-Aug-22,no
+C490,397.56,F,Engineer,n,21-Jan-24,not opted
+C239,573.38,fem,Unemployed,n,12-Sep-18,not opted
+C405,538.64,fem,Unemployed,n,07-Sep-25,not opted
+C226,220.89,female,Teacher,n,14-Oct-19,opted
+C412,305.03,F,Business,n,08-Jun-23,no
+C761,625.73,male,Doctor,y,02-May-23,yes
+C298,257.31,F,Unemployed,y,27-Aug-19,no
+C760,474.83,M,Business,y,31-Dec-22,opted
+C302,562.79,Female,Student,n,15-May-24,not opted
+C202,342.57,Male,Doctor,n,11-May-20,no
+C436,508.17,M,Business,y,20-Jun-19,yes
+C927,358.17,Female,Doctor,y,19-Apr-22,not opted
+C904,310.76,F,Business,n,15-Sep-22,yes
+C237,539.79,M,Farmer,n,24-Oct-20,yes
+C893,352.74,female,Engineer,y,27-Jul-18,opted
+C961,340.31,fem,Doctor,y,09-Nov-22,opted
+C844,237.7,Male,Unemployed,y,14-Apr-19,no
+C887,495.02,Male,Teacher,n,18-Sep-19,no
+C769,587.6,M,Farmer,y,13-Mar-19,yes
+C237,432.35,female,Engineer,n,23-Sep-21,opted
+C778,319.44,fem,Teacher,y,17-Jan-20,not opted
+C556,279.61,female,Teacher,y,21-May-20,yes
+C141,309.41,Female,Doctor,y,05-Nov-22,yes
+C339,221.4,male,Teacher,n,16-Jun-21,no
+C565,640.78,Male,Business,n,26-Aug-24,yes
+C954,570.95,female,Teacher,y,02-Aug-21,no
+C474,493.84,fem,Engineer,n,03-Aug-21,not opted
+C628,402.92,fem,Unemployed,n,07-May-20,no
+C718,203.3,male,Farmer,y,25-Mar-23,opted
+C626,521.74,male,Doctor,y,17-Jan-24,yes
+C716,558.65,Male,Business,y,27-Feb-21,yes
+C837,256.67,F,Farmer,n,12-Jun-23,not opted
+C762,616.68,Male,Doctor,y,17-May-24,not opted
+C237,514.77,Male,Teacher,y,07-Mar-25,not opted
+C364,661.22,female,Farmer,y,22-May-18,yes
+C187,308.3,female,Farmer,n,24-Nov-23,not opted
+C950,405.38,male,Unemployed,y,27-Oct-18,yes
+C271,562.09,M,Farmer,y,26-Mar-23,no
+C494,266.11,Male,Doctor,n,18-Feb-24,opted
+C281,437.93,female,Teacher,y,07-Nov-19,opted
+C195,441.12,male,Teacher,y,14-Mar-18,no
+C634,410.34,fem,Engineer,n,28-Mar-23,no
+C908,584.34,M,Teacher,y,14-Jan-21,not opted
+C360,438.57,male,Unemployed,y,19-Aug-22,no
+C363,294.51,F,Business,y,30-Apr-19,opted
+C632,203.6,F,Doctor,n,23-Mar-21,yes
+C209,277.39,F,Teacher,n,17-Nov-22,no
+C678,382.82,M,Business,n,11-Jul-23,no
+C665,591.89,Female,Doctor,n,16-Jul-19,no
+C359,694.25,female,Student,n,05-Apr-24,opted
+C865,314.89,fem,Business,y,07-Sep-24,not opted
+C620,400.28,M,Unemployed,y,03-Jan-24,no
+C751,202.65,Male,Unemployed,y,09-Jul-20,no
+C190,232.04,male,Student,y,24-Dec-18,opted
+C841,392.16,Female,Teacher,n,09-Feb-19,opted
+C892,610.11,F,Farmer,n,09-Sep-25,not opted
+C970,528.44,fem,Teacher,n,17-Aug-23,opted
+C902,499.76,female,Business,y,29-Nov-18,not opted
+C790,218.03,male,Business,y,17-Jan-24,opted
+C382,589.84,M,Business,n,06-Apr-21,not opted
+C630,207.68,F,Engineer,y,24-Aug-19,yes
+C843,614.88,female,Student,n,16-Sep-22,not opted
+C720,681.53,Female,Farmer,y,18-Nov-22,not opted
+C516,453.12,female,Engineer,n,30-Dec-21,opted
+C922,456.64,M,Teacher,n,09-Jan-18,no
+C486,481.58,fem,Doctor,n,30-Aug-20,no
+C700,631.01,Female,Engineer,n,19-Jan-25,no
+C748,594.33,male,Business,y,08-Apr-22,no
+C461,458.25,Male,Business,n,10-Jan-23,yes
+C195,399.47,F,Unemployed,n,15-Dec-24,not opted
+C587,356.94,male,Teacher,n,05-Oct-23,not opted
+C610,568.56,male,Business,y,31-Oct-22,not opted
+C334,301.38,male,Unemployed,n,23-Jan-24,opted
+C222,660.09,F,Business,n,04-Dec-18,opted
+C882,628.54,Male,Unemployed,n,24-Aug-21,yes
+C604,649.06,female,Unemployed,n,21-Apr-20,not opted
+C882,658,M,Farmer,y,05-May-19,not opted
+C155,462.87,Female,Farmer,y,04-Mar-20,yes
+C503,630.2,fem,Doctor,n,16-Jun-24,no
+C423,544.61,Male,Business,y,21-Jul-21,opted
+C433,380.8,fem,Student,y,29-Aug-19,yes
+C342,334.7,female,Student,n,30-Sep-23,no
+C534,305.27,F,Unemployed,n,18-Sep-21,no
+C386,425.36,female,Doctor,y,08-Sep-24,yes
+C923,317.9,Female,Unemployed,n,11-Aug-23,not opted
+C919,679.57,male,Farmer,y,30-Oct-23,no
+C611,267.24,fem,Business,n,08-May-20,yes
+C356,481.07,female,Engineer,n,12-Sep-24,not opted
+C161,307.73,M,Farmer,y,06-Oct-20,yes
+C366,380.48,female,Teacher,n,13-Dec-21,opted
+C521,260.62,fem,Business,y,05-May-19,not opted
+C899,342.3,M,Business,n,18-Oct-20,opted
+C490,506.83,Female,Business,y,06-Dec-23,yes
+C531,515.64,female,Farmer,y,02-Dec-24,not opted
+C451,314.11,M,Business,n,23-Oct-22,no
+C377,643.85,fem,Unemployed,n,24-Mar-19,no
+C523,283.66,fem,Engineer,y,06-Mar-23,yes
+C861,550.35,Male,Doctor,y,10-May-21,opted
+C197,231.9,Female,Teacher,y,07-Jul-25,no
+C636,582.5,Male,Engineer,n,17-Nov-18,not opted
+C186,527.42,Female,Student,y,13-Jan-23,yes
+C553,513.24,male,Teacher,y,27-Jun-25,opted
+C779,378.42,M,Unemployed,n,27-Jul-20,yes
+C661,422.42,F,Teacher,y,08-Mar-19,no
+C746,574.46,female,Farmer,n,30-Nov-21,no
+C652,313.56,Male,Farmer,n,15-Sep-21,no
+C366,277.86,Male,Engineer,y,14-Dec-21,yes
+C580,467.55,F,Farmer,n,13-Jun-22,opted
+C884,415.22,M,Teacher,y,23-Sep-25,yes
+C293,405.87,female,Farmer,n,03-Jan-23,not opted
+C832,568.56,Female,Unemployed,n,03-May-23,yes
+C181,411.12,male,Teacher,n,13-Aug-22,yes
+C522,294,Male,Doctor,y,24-Jul-22,opted
+C752,427.67,Female,Student,n,14-Sep-23,yes
+C119,276.07,female,Engineer,y,30-Aug-24,yes
+C375,262.52,Female,Business,y,14-Mar-23,opted
+C254,207.36,male,Student,n,25-Apr-22,no
+C480,431.84,fem,Engineer,n,28-Nov-24,not opted
+C157,333.25,Female,Engineer,n,10-Oct-23,not opted
+C961,325.04,Female,Unemployed,y,10-Jun-24,not opted
+C494,585.61,Female,Doctor,y,30-Jul-23,no
+C852,585.5,female,Business,y,04-Jul-20,no
+C797,680.61,M,Doctor,y,24-Aug-19,opted
+C359,440.61,M,Doctor,n,23-Mar-25,not opted
+C215,317.98,Female,Student,y,07-Dec-23,yes
+C698,259.82,fem,Doctor,y,03-May-25,no
+C804,498.11,M,Unemployed,y,08-Jan-23,not opted
+C611,245.7,female,Student,y,20-Feb-25,yes
+C760,276.96,female,Unemployed,y,25-May-24,no
+C338,358.37,female,Unemployed,n,21-Nov-20,not opted
+C121,544.62,M,Business,y,31-Dec-22,opted
+C596,553.31,female,Student,n,06-Sep-23,not opted
+C656,373.83,F,Farmer,n,04-Feb-19,not opted
+C170,465.57,Female,Student,n,26-Sep-19,yes
+C564,200.36,F,Teacher,n,24-Sep-23,opted
+C734,628.41,fem,Teacher,y,19-Mar-22,opted
+C774,683.58,fem,Farmer,y,07-Dec-19,no
+C884,475.73,female,Student,n,19-Mar-21,yes
+C213,248.13,F,Engineer,y,09-May-24,not opted
+C994,215.64,Male,Farmer,y,13-Sep-24,opted
+C684,520.88,Female,Business,n,30-Nov-19,yes
+C150,383.18,female,Business,y,30-Aug-25,not opted
+C771,445.7,fem,Engineer,n,23-Aug-18,opted
+C469,479.01,Female,Unemployed,n,26-Feb-25,yes
+C641,220.33,Male,Unemployed,n,07-Dec-24,not opted
+C631,248.56,F,Doctor,n,07-Sep-23,not opted
+C638,528.44,female,Business,y,19-Jul-19,no
+C864,252.76,F,Teacher,n,31-Mar-18,no
+C819,532.62,Male,Doctor,y,23-Aug-19,no
+C616,368.76,male,Teacher,n,09-Nov-21,yes
+C663,695.73,M,Unemployed,n,09-Mar-21,no
+C945,562.93,female,Doctor,y,08-Aug-21,yes
+C468,680.83,Female,Farmer,y,03-Jun-25,yes
+C710,208.15,male,Student,y,10-Jun-22,not opted
+C319,627.86,Male,Unemployed,n,08-Aug-19,not opted
+C196,218.87,M,Doctor,y,02-Nov-22,yes
+C696,324.93,M,Unemployed,n,11-Oct-24,no
+C682,658.94,F,Engineer,n,25-May-20,not opted
+C599,612.85,F,Business,y,18-Feb-19,yes
+C138,565.39,female,Farmer,y,07-Mar-25,yes
+C456,639.9,Female,Farmer,y,08-Apr-23,opted
+C749,588.71,Female,Engineer,n,06-Dec-19,opted
+C426,469.96,male,Student,y,03-Feb-24,opted
+C789,565.79,Female,Farmer,y,27-Apr-23,no
+C396,593.18,male,Doctor,n,18-Nov-24,no
+C685,572.66,female,Farmer,n,08-Nov-24,no
+C613,417.25,F,Doctor,y,01-Jun-20,not opted
+C599,397.66,female,Doctor,y,03-Feb-23,opted
+C372,588.39,M,Business,y,19-Jul-24,no
+C533,382.63,male,Student,n,24-Feb-19,opted
+C888,352.41,M,Teacher,n,27-Oct-18,not opted
+C551,222.44,fem,Doctor,y,14-Feb-18,yes
+C259,578.87,fem,Engineer,y,13-Mar-25,not opted
+C735,663.36,fem,Unemployed,n,27-Aug-25,yes
+C810,602.14,M,Farmer,n,21-Jul-25,yes
+C314,570.01,male,Doctor,n,28-Aug-19,no
+C737,564.96,male,Business,y,02-Aug-21,opted
+C361,285.16,M,Doctor,n,19-Mar-25,no
+C770,672.59,Male,Farmer,n,17-May-18,yes
+C985,253.95,M,Unemployed,n,21-Mar-23,no
+C620,688.31,Male,Student,n,11-Feb-19,opted
+C290,299.44,Female,Teacher,y,13-May-25,not opted
+C642,352.46,Female,Farmer,y,08-Aug-25,yes
+C800,375.96,F,Student,y,09-Mar-20,yes
+C931,231,M,Farmer,y,02-Aug-19,yes
+C330,275.85,Female,Business,y,28-Oct-24,no
+C633,680.3,female,Unemployed,y,16-Feb-21,not opted
+C686,276.37,M,Teacher,n,09-Oct-20,not opted
+C311,526.24,female,Teacher,y,05-Apr-24,yes
+C805,552.57,female,Doctor,n,07-Mar-24,not opted
+C425,233.91,female,Business,y,29-Sep-23,yes
+C959,639.82,F,Engineer,n,02-Mar-21,no
+C410,421.5,fem,Business,n,08-Feb-24,not opted
+C209,265.77,Male,Unemployed,n,07-Jan-19,not opted
+C710,316.09,F,Engineer,n,01-Dec-24,no
+C237,451.16,female,Farmer,n,30-Sep-23,no
+C603,436.92,male,Doctor,y,12-Jun-25,no
+C882,684.41,M,Farmer,y,13-Apr-18,not opted
+C875,302.28,male,Farmer,n,04-Feb-18,yes
+C987,,male,Farmer,n,04-May-25,no
